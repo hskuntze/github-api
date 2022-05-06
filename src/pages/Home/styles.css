@@ -1,0 +1,40 @@
+.home-container {
+    padding: 10px 0px 0px 20px;
+}
+
+.home-content-container h1 {
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+}
+
+.home-content-container h4 {
+    font-weight: 700;
+    color: #7E7E7E;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+}
+
+.home-button-container {
+    margin-top: 27px;
+}
+
+@media (min-width: 576px) {
+    .home-content-container h1 {
+        font-size: 42px;
+    }
+
+    .home-content-container h4 {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 992px) {
+    .home-content-container h1 {
+        font-size: 48px;
+    }
+
+    .home-content-container h4 {
+        font-size: 24px;
+    }
+}

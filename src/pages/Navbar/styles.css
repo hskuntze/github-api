@@ -1,0 +1,12 @@
+.navbar-container {
+    height: 65px;
+    padding: 15px 0px 15px 40px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar-container h1 {
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFF;
+}

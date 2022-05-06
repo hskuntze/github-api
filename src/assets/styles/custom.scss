@@ -3,7 +3,7 @@ $theme-colors: (
 
 );
 
-$body-bg: linear-gradient(180deg, #FFFFFF 0%, #F7F9FA 100%);
-$body-color: #E6F7FF;
+$body-bg: #FFFFFF;
+$body-color: #000;
 
 @import '~bootstrap/scss/bootstrap.scss';
